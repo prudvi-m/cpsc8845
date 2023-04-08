@@ -1,0 +1,1 @@
+ https://stackoverflow.com/questions/33420918/run-django-application-without-django-contrib-admin
